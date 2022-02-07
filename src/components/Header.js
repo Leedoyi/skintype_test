@@ -74,7 +74,7 @@ function Header() {
               <img src={cart} alt="장바구니이미지" className="desktop_cart_img"></img>
               </Link>
 
-              <LoginTap />
+              {/* <LoginTap /> */}
             </div>
 
         {/* tablet */}
